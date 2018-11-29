@@ -1,1 +1,3 @@
-print('Hello C') 
+# develop: lowercase c
+print('Hello c') 
+
